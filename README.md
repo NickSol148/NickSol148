@@ -1,7 +1,6 @@
 # Hello, I'm Nicholas
 <a href="https://www.linkedin.com/in/nicholas-solomos-20664922a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 Hello,
 
 I am currently a dedicated software engineering student with a passion for cybersecurity. With my knowledgable understanding of programming languages, algorithms and software developement methodologies, I am extremely eager to leverage my knowledge and skills to have a meaningful impact on the cybersecurity field. The coursework and projects i have undergone have equipped me with the technical proficiency necessary to be successful in this career. I am committed to the continuous adaption and education needed in the evolving landscape of cybersecurity threats and solutions. I am excited about the prospect of applying my thirst for knowledge and education as well as my determination and enthusiasm to protect digital assets and the livelyhood of people.
