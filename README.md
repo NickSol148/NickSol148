@@ -3,10 +3,9 @@
 
 Hello,
 
-I am currently a dedicated software engineering student with a passion for cybersecurity. With my knowledgable understanding of programming languages, algorithms and software developement methodologies, I am extremely eager to leverage my knowledge and skills to have a meaningful impact on the cybersecurity field. The coursework and projects i have undergone have equipped me with the technical proficiency necessary to be successful in this career. I am committed to the continuous adaption and education needed in the evolving landscape of cybersecurity threats and solutions. I am excited about the prospect of applying my thirst for knowledge and education as well as my determination and enthusiasm to protect digital assets and the livelyhood of people.
+I am currently a dedicated software engineering student with a passion for cybersecurity. With my knowledgable understanding of programming languages, algorithms and software development methodologies, I am extremely eager to leverage my knowledge and skills to have a meaningful impact on the cybersecurity field. The coursework and projects I have undergone have equipped me with the technical proficiency necessary to be successful in this career. I am committed to the continuous adaption and education needed in the evolving landscape of cybersecurity threats and solutions. I am excited about the prospect of applying my thirst for knowledge and education as well as my determination and enthusiasm to protect digital assets and the livelihood of people.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for a pen testing role in order to hone my skills and later transition into red teaming.
 
@@ -48,11 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
